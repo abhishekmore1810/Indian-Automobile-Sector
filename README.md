@@ -279,3 +279,6 @@ It demonstrates strong skills in:
 - Dashboard Design
 - Business Analysis
 - Insight Generation
+
+# Dashboard Image
+https://github.com/abhishekmore1810/Indian-Automobile-Sector/blob/main/Indian%20Automobile%20Sector%20Dashboard%20Image.png
