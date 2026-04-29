@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project focuses on analyzing the Indian automobile sector using Excel, SQL Server, and Power BI. The goal was to clean, transform, and integrate automobile related datasets from multiple sources and create an interactive dashboard for business insights.
+This project focus on analyzing the Indian automobile sector data by using Excel, SQL Server, and Power BI. The goal was to clean, transform, and integrate automobile related datasets from multiple sources and create an interactive dashboard for business insights.
 
 The dashboard helps understand:
 
